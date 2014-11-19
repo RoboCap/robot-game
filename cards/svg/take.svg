@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3287"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="drop.pdf">
+  <defs
+     id="defs3289" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94"
+     inkscape:cx="406.75537"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3292">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       style="display:inline"
+       y="871.21259"
+       x="566.92914"
+       id="image3101"
+       xlink:href="robocap_512x512.png"
+       height="128"
+       width="128" />
+    <rect
+       style="fill:#000000;display:inline"
+       id="rect3256"
+       width="744.09448"
+       height="3.5433071"
+       x="0"
+       y="304.7244" />
+    <path
+       style="fill:#000000"
+       id="path3765-8"
+       d="m 454.5231,624.8442 -0.31108,40.31326 128.14788,86.82042 -207.46969,112.10146 -207.4697,-112.10146 128.1479,-86.82042 2.25329,-40.31326 -175.20663,92.56394 0,83.16413 252.27514,134.86078 252.27514,-134.86078 0,-87.65949 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#000000"
+       id="path3639-4-8"
+       d="m 117.19599,525.24108 94.6032,0 0,62.22046 102.48677,-80.88659 -102.48677,-80.8866 0,62.22046 -94.6032,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#000000"
+       id="path3639-4-8-2"
+       d="m 621.76687,524.58455 -94.6032,0 0,62.22046 -102.48677,-80.88659 102.48677,-80.8866 0,62.22046 94.6032,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
